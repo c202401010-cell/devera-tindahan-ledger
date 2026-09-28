@@ -1,3 +1,5 @@
+get("/api/customers");
+
 export type Customer = {
   id: string;
   name: string;

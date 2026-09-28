@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "DeVera Week 2",
-    "slug": "devera-week-2",
+    "name": "devera-tindahan-ledger",
+    "slug": "devera-tindahan-ledger",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "stickersmash",
+    "scheme": "devera-tindahan-ledger",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
